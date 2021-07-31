@@ -44,7 +44,7 @@ Run as > Spring Boot App
 ```
 <br/>
 
-## ☕ Testando
+### ☕ Testando
 Para testar AluraFlix, siga estas etapas:
 
 ```bash
